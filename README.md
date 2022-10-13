@@ -8,6 +8,7 @@
 - Implementar associações entre objetos (Objetos aninhados e referências).
 - Realizar consultas com Spring Data e MongoRepository
 
+Vídeo rodando o projeto e mostrando as funcionalidades : https://www.linkedin.com/feed/update/urn:li:activity:6986363756322672640/
 
 ## Modelo conceitual
 ![alt text](https://i.imgur.com/QFNYJO7.png)
